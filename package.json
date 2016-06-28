@@ -5,6 +5,7 @@
   "author": "geekduck <duck1218+github@gmail.com>",
   "description": "haro",
   "dependencies": {
+    "chrono-node": "^1.2.3",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
@@ -17,7 +18,9 @@
     "hubot-scripts": "^2.17.2",
     "hubot-slack": "^3.4.2",
     "hubot-slack-overflow": "^1.0.0",
-    "hubot-zatsudan": "0.0.3"
+    "hubot-zatsudan": "0.0.3",
+    "lodash": "^4.13.1",
+    "moment": "^2.13.0"
   },
   "engines": {
     "node": "0.10.x"
