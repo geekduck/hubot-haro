@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "geekduck <duck1218+github@gmail.com>",
-  "description": "25thdev Bot",
+  "description": "haro",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
