@@ -8,6 +8,5 @@
   "hubot-misawa",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-slack-overflow",
   "hubot-zatsudan"
 ]
